@@ -1,0 +1,47 @@
+{
+  "name": "MultimediaNotes",
+  "version": "0.1.0",
+  "description": "Multimedia Notes",
+  "author": "ApikoSoftware",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "react-native-scripts start",
+    "eject": "react-native-scripts eject",
+    "android": "react-native-scripts android",
+    "ios": "react-native-scripts ios"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^6.1.0",
+    "expo": "^25.0.0",
+    "moment": "^2.19.1",
+    "prop-types": "^15.6.0",
+    "ramda": "^0.25.0",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "react-native-elements": "^0.17.0",
+    "react-native-segmented-control-tab": "^3.2.2",
+    "react-native-swipeout": "^2.3.1",
+    "react-navigation": "1.0.0-beta.27",
+    "react-redux": "^5.0.6",
+    "recompose": "^0.26.0",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.2.1",
+    "redux-thunk": "^2.2.0",
+    "reselect": "^3.0.1",
+    "uuid": "^3.1.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.2.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-formatter-pretty": "^1.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jest": "^21.2.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.1.0",
+    "eslint-plugin-react-native": "^3.1.0",
+    "react-native-scripts": "^1.9.0",
+    "remote-redux-devtools": "^0.5.12"
+  }
+}
